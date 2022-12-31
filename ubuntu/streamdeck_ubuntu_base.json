@@ -1,0 +1,452 @@
+{
+    "streamdeck_ui_version": 1,
+    "state": {
+        "AL06L2C56719": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key.png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (3).png",
+                        "switch_page": 4
+                    },
+                    "2": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (5).png",
+                        "switch_page": 5
+                    },
+                    "3": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (52).png",
+                        "keys": "",
+                        "write": "",
+                        "command": "xdotool key --clearmodifiers 'Alt_L+Super_L+1'"
+                    },
+                    "4": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (51).png",
+                        "command": "xdotool key --clearmodifiers 'Alt_L+Super_L+2'"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {
+                        "switch_page": 6,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (4).png"
+                    },
+                    "7": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (6).png",
+                        "switch_page": 7
+                    },
+                    "8": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (50).png",
+                        "command": "xdotool key --clearmodifiers 'Alt_L+Super_L+3'"
+                    },
+                    "9": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (49).png",
+                        "command": "xdotool key --clearmodifiers 'Alt_L+Super_L+4'"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png"
+                    },
+                    "11": {
+                        "switch_page": 8,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (7).png"
+                    },
+                    "12": {},
+                    "13": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (8).png",
+                        "switch_page": 3
+                    },
+                    "14": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (9).png",
+                        "switch_page": 2
+                    }
+                },
+                "1": {
+                    "0": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key.png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (3).png",
+                        "switch_page": 4
+                    },
+                    "2": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (5).png",
+                        "switch_page": 5
+                    },
+                    "3": {
+                        "command": "xdg-open https://www.notion.so/",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (15).png"
+                    },
+                    "4": {
+                        "command": "ticktick",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (16).png"
+                    },
+                    "5": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png",
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\""
+                    },
+                    "6": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (4).png",
+                        "switch_page": 6
+                    },
+                    "7": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (6).png",
+                        "switch_page": 7
+                    },
+                    "8": {
+                        "command": "bash -c \"spotifycli --play && spotifycli --pause && xdg-open https://open.spotify.com/search/album%3Achillhop\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (18).png",
+                        "write": ""
+                    },
+                    "9": {
+                        "command": "gedit --new-window",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (17).png"
+                    },
+                    "10": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png",
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\""
+                    },
+                    "11": {
+                        "switch_page": 8,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (7).png"
+                    },
+                    "12": {},
+                    "13": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (8).png",
+                        "switch_page": 3
+                    },
+                    "14": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png",
+                        "switch_page": 1
+                    }
+                },
+                "2": {
+                    "0": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key.png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (3).png",
+                        "switch_page": 4
+                    },
+                    "2": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (5).png",
+                        "switch_page": 5
+                    },
+                    "3": {
+                        "command": "bash -c \"xdotool search --name 'Dropbox \\(Maestral\\)' windowclose ; sleep 0.1 && xdg-open '/home/angelo.mosquera/Dropbox (Maestral)'\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (10).png"
+                    },
+                    "4": {
+                        "command": "bash -c \"xdotool search --name 'Downloads' windowclose ; sleep 0.1 && xdg-open '/home/angelo.mosquera/Downloads'\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (11).png"
+                    },
+                    "5": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png",
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\""
+                    },
+                    "6": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (4).png",
+                        "switch_page": 6
+                    },
+                    "7": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (6).png",
+                        "switch_page": 7
+                    },
+                    "8": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (12).png",
+                        "command": "bash -c \"xdotool search --name 'Projects' windowclose ; sleep 0.1 && xdg-open '/home/angelo.mosquera/Documents/Projects'\""
+                    },
+                    "9": {
+                        "command": "bash -c \"xdotool search --name 'Screenshots' windowclose ; sleep 0.1 && xdg-open '/home/angelo.mosquera/Pictures/Screenshots'\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (13).png"
+                    },
+                    "10": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png",
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\""
+                    },
+                    "11": {
+                        "switch_page": 8,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (7).png"
+                    },
+                    "12": {},
+                    "13": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png",
+                        "switch_page": 1
+                    },
+                    "14": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (9).png",
+                        "switch_page": 2
+                    }
+                },
+                "3": {
+                    "0": {
+                        "switch_page": 1,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png"
+                    },
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png",
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\""
+                    },
+                    "6": {},
+                    "7": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (25).png",
+                        "command": "obs-cli recording pause toggle --password <websocket_password>"
+                    },
+                    "8": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (22).png",
+                        "command": "obs-cli recording toggle --password <websocket_password>",
+                        "keys": "",
+                        "write": ""
+                    },
+                    "9": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (21).png",
+                        "command": "bash /home/angelo.mosquera/Documents/Projects/stream-deck-setup/scripts/obs-opener.sh"
+                    },
+                    "10": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png",
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\""
+                    },
+                    "11": {},
+                    "12": {
+                        "command": "xdg-open https://www.notion.so/Meetings-1c1317adb0d14a81a4cb061fbf8367fc",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (20).png"
+                    },
+                    "13": {
+                        "command": "xdg-open https://www.notion.so/385b12d10d094ac1a48161785415c886?v=f7d613f30ae94a19a3942a2b05d85483",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (19).png"
+                    },
+                    "14": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (48).png",
+                        "command": "xdotool key 'Alt_L+backslash'",
+                        "write": "",
+                        "keys": "",
+                        "text": ""
+                    }
+                },
+                "4": {
+                    "0": {
+                        "keys": "",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png",
+                        "switch_page": 1
+                    },
+                    "1": {},
+                    "2": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (29).png"
+                    },
+                    "3": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (28).png"
+                    },
+                    "4": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (26).png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {},
+                    "7": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (30).png"
+                    },
+                    "8": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (32).png"
+                    },
+                    "9": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (47).png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png"
+                    },
+                    "11": {},
+                    "12": {},
+                    "13": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (31).png",
+                        "command": "xdg-open https://www.notion.so/QA-Software-Developer-Algolux-e8f00c6ebb474c6e91a9c7273eed4cbb"
+                    },
+                    "14": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (46).png"
+                    }
+                },
+                "5": {
+                    "0": {
+                        "switch_page": 1,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png"
+                    },
+                    "1": {},
+                    "2": {},
+                    "3": {
+                        "command": "xdotool key 'ctrl+u'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_6.png"
+                    },
+                    "4": {
+                        "command": "xdotool key 'ctrl+i'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_4.png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {},
+                    "7": {},
+                    "8": {
+                        "command": "xdotool key 'ctrl+shift+x'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_5.png"
+                    },
+                    "9": {
+                        "command": "xdotool key 'ctrl+b'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_3.png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png"
+                    },
+                    "11": {},
+                    "12": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (27).png",
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_emoji_end.json streamdeck -n\""
+                    },
+                    "13": {
+                        "command": "xdotool key 'ctrl+alt+shift+c'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_2.png"
+                    },
+                    "14": {
+                        "command": "bash /home/angelo.mosquera/Documents/Projects/stream-deck-setup/scripts/code-style-command.sh",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_1.png"
+                    }
+                },
+                "6": {
+                    "0": {
+                        "switch_page": 1,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png"
+                    },
+                    "1": {
+                        "command": "xdotool key 'ctrl+alt+l'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (54).png"
+                    },
+                    "2": {
+                        "command": "xdotool key 'shift+F6'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (37).png"
+                    },
+                    "3": {
+                        "command": "xdotool key 'ctrl+F8'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (39).png"
+                    },
+                    "4": {
+                        "command": "xdotool key 'shift+F8'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (35).png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {},
+                    "7": {
+                        "keys": "F9",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_11.png"
+                    },
+                    "8": {
+                        "keys": "F8",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_10.png"
+                    },
+                    "9": {
+                        "command": "xdotool key 'ctrl+shift+Return'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (34).png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png"
+                    },
+                    "11": {
+                        "command": "xdg-open https://www.google.com/",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (36).png"
+                    },
+                    "12": {
+                        "command": "xdg-open https://chat.openai.com/chat",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/7182237_9.png"
+                    },
+                    "13": {
+                        "command": "xdotool key 'ctrl+F2'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (38).png"
+                    },
+                    "14": {
+                        "command": "xdotool key 'ctrl+Return'",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (33).png"
+                    }
+                },
+                "7": {
+                    "0": {
+                        "keys": "",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14).png",
+                        "switch_page": 1
+                    },
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (2).png"
+                    },
+                    "11": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (40).png",
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_numpad_end.json streamdeck -n\""
+                    },
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "8": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "9": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                }
+            },
+            "brightness": 55,
+            "brightness_dimmed": 0,
+            "page": 0
+        }
+    }
+}

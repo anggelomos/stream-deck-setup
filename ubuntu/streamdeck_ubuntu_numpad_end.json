@@ -1,0 +1,381 @@
+{
+    "streamdeck_ui_version": 1,
+    "state": {
+        "AL06L2C56719": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_base.json streamdeck -n\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (53).png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/3437424_1.png",
+                        "switch_page": 5
+                    },
+                    "2": {
+                        "write": "1",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (13)_numpad.png"
+                    },
+                    "3": {
+                        "write": "2",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14)_numpad.png"
+                    },
+                    "4": {
+                        "write": "3",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (15)_numpad.png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {
+                        "write": "+",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (23)_numpad.png"
+                    },
+                    "7": {
+                        "write": "4",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (16)_numpad.png"
+                    },
+                    "8": {
+                        "write": "5",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (17)_numpad.png"
+                    },
+                    "9": {
+                        "write": "6",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (18)_numpad.png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/427735.png"
+                    },
+                    "11": {
+                        "write": "0",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (22)_numpad.png"
+                    },
+                    "12": {
+                        "write": "7",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (19)_numpad.png"
+                    },
+                    "13": {
+                        "write": "8",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (20)_numpad.png"
+                    },
+                    "14": {
+                        "write": "9",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (21)_numpad.png"
+                    }
+                },
+                "1": {
+                    "0": {
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_base.json streamdeck -n\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (53).png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/3437424_1.png",
+                        "switch_page": 5
+                    },
+                    "2": {
+                        "write": "1",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (13)_numpad.png"
+                    },
+                    "3": {
+                        "write": "2",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14)_numpad.png"
+                    },
+                    "4": {
+                        "write": "3",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (15)_numpad.png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {
+                        "write": "-",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (24)_numpad.png"
+                    },
+                    "7": {
+                        "write": "4",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (16)_numpad.png"
+                    },
+                    "8": {
+                        "write": "5",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (17)_numpad.png"
+                    },
+                    "9": {
+                        "write": "6",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (18)_numpad.png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/427735.png"
+                    },
+                    "11": {
+                        "write": "0",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (22)_numpad.png"
+                    },
+                    "12": {
+                        "write": "7",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (19)_numpad.png"
+                    },
+                    "13": {
+                        "write": "8",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (20)_numpad.png"
+                    },
+                    "14": {
+                        "write": "9",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (21)_numpad.png"
+                    }
+                },
+                "2": {
+                    "0": {
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_base.json streamdeck -n\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (53).png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/3437424_1.png",
+                        "switch_page": 5
+                    },
+                    "2": {
+                        "write": "1",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (13)_numpad.png"
+                    },
+                    "3": {
+                        "write": "2",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14)_numpad.png"
+                    },
+                    "4": {
+                        "write": "3",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (15)_numpad.png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {
+                        "write": "/",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (25)_numpad.png"
+                    },
+                    "7": {
+                        "write": "4",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (16)_numpad.png"
+                    },
+                    "8": {
+                        "write": "5",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (17)_numpad.png"
+                    },
+                    "9": {
+                        "write": "6",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (18)_numpad.png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/427735.png"
+                    },
+                    "11": {
+                        "write": "0",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (22)_numpad.png"
+                    },
+                    "12": {
+                        "write": "7",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (19)_numpad.png"
+                    },
+                    "13": {
+                        "write": "8",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (20)_numpad.png"
+                    },
+                    "14": {
+                        "write": "9",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (21)_numpad.png"
+                    }
+                },
+                "3": {
+                    "0": {
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_base.json streamdeck -n\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (53).png"
+                    },
+                    "1": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/3437424_1.png",
+                        "switch_page": 5
+                    },
+                    "2": {
+                        "write": "1",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (13)_numpad.png"
+                    },
+                    "3": {
+                        "write": "2",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14)_numpad.png"
+                    },
+                    "4": {
+                        "write": "3",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (15)_numpad.png"
+                    },
+                    "5": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '~inbox' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (1).png"
+                    },
+                    "6": {
+                        "write": "*",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (26)_numpad.png"
+                    },
+                    "7": {
+                        "write": "4",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (16)_numpad.png"
+                    },
+                    "8": {
+                        "write": "5",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (17)_numpad.png"
+                    },
+                    "9": {
+                        "write": "6",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (18)_numpad.png"
+                    },
+                    "10": {
+                        "command": "bash -c \"xdotool search --name '^.+TickTick$' windowactivate --sync key n type '#idea' && xdotool key Return && xdotool type '~ideas' && xdotool key Return\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/427735.png"
+                    },
+                    "11": {
+                        "write": "0",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (22)_numpad.png"
+                    },
+                    "12": {
+                        "write": "7",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (19)_numpad.png"
+                    },
+                    "13": {
+                        "write": "8",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (20)_numpad.png"
+                    },
+                    "14": {
+                        "write": "9",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (21)_numpad.png"
+                    }
+                },
+                "4": {
+                    "0": {
+                        "switch_page": 1,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (53).png"
+                    },
+                    "1": {
+                        "write": "+",
+                        "switch_page": 1,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (23)_numpad.png"
+                    },
+                    "2": {
+                        "write": "-",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (24)_numpad.png",
+                        "switch_page": 2
+                    },
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {
+                        "write": "*",
+                        "switch_page": 4,
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (26)_numpad.png"
+                    },
+                    "7": {
+                        "switch_page": 3,
+                        "write": "/",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (25)_numpad.png"
+                    },
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "5": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "6": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "7": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "8": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "9": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                }
+            },
+            "brightness": 55,
+            "brightness_dimmed": 0,
+            "page": 0
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "streamdeck_ui_version": 1,
+    "state": {
+        "AL06L2C56719": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "command": "bash -c \"pkill -9 streamdeck; STREAMDECK_UI_CONFIG=$HOME/Documents/Projects/stream-deck-setup/ubuntu/streamdeck_ubuntu_base.json streamdeck -n\"",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (53).png"
+                    },
+                    "1": {
+                        "write": "\ud83e\udd13",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (9)_emoji.png"
+                    },
+                    "2": {
+                        "write": "\ud83d\ude04",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (10)_emoji.png"
+                    },
+                    "3": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (11)_emoji.png",
+                        "write": "\ud83e\uddd0"
+                    },
+                    "4": {
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (12)_emoji.png",
+                        "write": "\ud83d\ude2c"
+                    },
+                    "5": {
+                        "write": "\ud83d\ude0e",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (13)_emoji.png"
+                    },
+                    "6": {
+                        "write": "\ud83e\udd23",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (14)_emoji.png"
+                    },
+                    "7": {
+                        "write": "\ud83e\udd73",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (15)_emoji.png"
+                    },
+                    "8": {
+                        "write": "\ud83d\ude34",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (16)_emoji.png"
+                    },
+                    "9": {
+                        "write": "\ud83d\ude08",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (18)_emoji.png"
+                    },
+                    "10": {
+                        "write": "\ud83e\udd24",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (19)_emoji.png"
+                    },
+                    "11": {
+                        "write": "\ud83d\ude05",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (20)_emoji.png"
+                    },
+                    "12": {
+                        "write": "\ud83e\udd29",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (21)_emoji.png"
+                    },
+                    "13": {
+                        "write": "\ud83d\ude14",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (22)_emoji.png"
+                    },
+                    "14": {
+                        "write": "\u2764\ufe0f",
+                        "icon": "/home/angelo.mosquera/Documents/Projects/stream-deck-setup/icons/streamdeck_key (23)_emoji.png"
+                    }
+                },
+                "1": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "2": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "3": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "4": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "5": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "6": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "7": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "8": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "9": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                }
+            },
+            "brightness": 55,
+            "brightness_dimmed": 0,
+            "page": 0
+        }
+    }
+}
